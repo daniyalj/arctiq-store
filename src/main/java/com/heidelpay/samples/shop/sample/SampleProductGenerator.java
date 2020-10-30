@@ -10,8 +10,8 @@ import com.heidelpay.samples.shop.model.Product;
 
 public class SampleProductGenerator {
 
-	private static final List<String> titles = Arrays.asList(new String[] {"heidelpay Bluetooth Lautsprecher", "heidelpay Powerbank", "heidelpay Kopfhörer", 
-			"heidelpay USB-Stick", "heidelpay T-Shirt", "heidelpay Kaffeetasse"});
+	private static final List<String> titles = Arrays.asList(new String[] {"Arctiq Covid WFH T-Shirt Grey", "Stefansson Surfing Stickers", "Stefansson Baseball Stickers", 
+			"Stefansson Muskoka Stickers", "Stefansson Secure DevOps Stickers", "Arctiq Covid WFH T-Shirt Blue"});
 	private static final List<BigDecimal> prices = Arrays.asList( new BigDecimal[] {
 			new BigDecimal(19.99).setScale(2,  BigDecimal.ROUND_HALF_EVEN), 
 			new BigDecimal(49.99).setScale(2,  BigDecimal.ROUND_HALF_EVEN), 

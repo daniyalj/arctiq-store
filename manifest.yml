@@ -1,0 +1,4 @@
+---
+applications:
+- name: arctiq-store
+  path: build/libs/payment-demo-shop-0.0.1-SNAPSHOT.jar
