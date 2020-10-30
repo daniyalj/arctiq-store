@@ -5,6 +5,7 @@ Initially written as sample for an article on the W3C's Payment Request Api Spec
 NOTE: this shop must not be used in production!
 
 ## Run
+
 The Demo-Shop is a Spring Boot App. Assuming Java (>= 8) is installed on your system, simply clone the repo and call `gradlew bootRun`
 
 ## tl;dr
