@@ -5,7 +5,6 @@ Initially written as sample for an article on the W3C's Payment Request Api Spec
 NOTE: this shop must not be used in production
 
 ## Run
-
 The Demo-Shop is a Spring Boot App. Assuming Java (>= 8) is installed on your system, simply clone the repo and call `gradlew bootRun`
 ## tl;dr
 The heidelpay sdk is configured in the application.properties and 'initialized' in the `PaymentDemoShopConfiguration`. The `PaymentDemoShopApplication` bootstraps some random products for the shop. On your local system the Shop will be available under http://localhost:8080. Once you have added some products into your basket, you can klick the link in the header to come to http://localhost/8080/basket. There you will find the various options to pay.
